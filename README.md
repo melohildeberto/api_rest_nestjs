@@ -31,6 +31,14 @@
 $ npm install
 ```
 
+## Dependencies
+```bash
+$ npm install @nestjs/typeorm typeorm mysql2
+$ npm install @nestjs/jwt passport-jwt passport
+$ npm install @nestjs/swagger swagger-ui-express
+$ npm install class-validator class-transformer bcrypt
+```
+
 ## Compile and run the project
 
 ```bash
